@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://majantaho-pixel.github.io/mycalculatorwebsite/sitemap.xml
